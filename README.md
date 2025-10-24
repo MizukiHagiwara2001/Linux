@@ -1,13 +1,30 @@
-# Linux Fundamentals
+# Linux Practice
 
-This repository contains exercises and notes on Linux basics, including command line operations, file system management, and system administration.
+Linux環境の基礎操作からC言語による開発環境構築、ネットワーク設定、シェルスクリプトまでを体系的に学習しました。  
+IoT・Securityいずれの分野でも不可欠なOS基盤の理解を目的としています。
 
-## Contents
-- TryHackMe Linux Fundamentals modules
-- Command line exercises
-- File system practice
-- Notes and observations
+---
 
-## Objective
-To understand Linux fundamentals necessary for cybersecurity and system administration roles.
+## 📘 主な取り組み
+- ファイルシステム管理（権限・プロセス・パッケージ）
+- ネットワーク設定（ifconfig / ping / netstat / ssh）
+- C言語によるコンソールアプリケーション開発
+- Bashスクリプトによる自動バックアップ・ログ整形
 
+---
+
+## ⚙️ 使用技術
+- **OS:** Ubuntu, Debian
+- **言語:** C, Bash
+- **ツール:** Vim, gcc, systemctl, grep, awk
+
+---
+
+## ✅ 成果
+- CLI環境でのシステム運用とトラブルシューティングを習得  
+- IoTデバイスやサーバーの初期設定を自力で実施可能  
+- スクリプトによる作業自動化の基礎を確立
+
+---
+
+## 📁 構成
